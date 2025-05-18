@@ -74,8 +74,7 @@ Our analysis shows that:
 - Testing newer architectures like EfficientNetV2 or Vision Transformers
 
 ## Authors
-- Ali Abdullah (413814) - Fine-tuning, visualization, and comparative analysis
-- Rabbiya Riaz (406636) - Dataset processing and feature extraction implementation
+- Ali Abdullah
 
 ## Requirements
 - TensorFlow 2.x
